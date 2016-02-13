@@ -107,7 +107,7 @@ public class Zone extends Tag {
 
         zonesByName.put(AP_SOUTHEAST_2A.name, AP_SOUTHEAST_2A);
         zonesByName.put(AP_SOUTHEAST_2B.name, AP_SOUTHEAST_2B);
-        zonesByName.put(AP_SOUTHEAST_1B.name, AP_SOUTHEAST_2C);
+        zonesByName.put(AP_SOUTHEAST_2C.name, AP_SOUTHEAST_2C);
     }
 
     public static void addZone(Zone zone) {
